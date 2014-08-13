@@ -7,7 +7,14 @@
 //
 
 #import <UIKit/UIKit.h>
+#import "SlideMenu.h"
 
-@interface MainViewController : UIViewController
+
+@interface MainViewController : UIViewController<SlideMenuDelegate>
+{
+    NSArray *imageArray;
+    NSMutableArray *testtmutarray_image;
+    NSMutableArray *testtmutarray_label;
+}
 
 @end

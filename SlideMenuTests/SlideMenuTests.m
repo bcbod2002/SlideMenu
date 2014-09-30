@@ -3,7 +3,7 @@
 //  SlideMenuTests
 //
 //  Created by shinsoft on 2014/4/18.
-//  Copyright (c) 2014年 shinsoft. All rights reserved.
+//  Copyright (c) 2014年 Goston. All rights reserved.
 //
 
 #import <XCTest/XCTest.h>
